@@ -1,1 +1,1 @@
-The Amazon UI Clone project using HTML and CSS  
+The Amazon UI Clone project HTML and CSS to replicate Netflix's visual design and responsive interface. Featuring semantic HTML, media queries, and interactive elements, participants gain practical web development skillsThe Amazon UI Clone project using HTML and CSS  
